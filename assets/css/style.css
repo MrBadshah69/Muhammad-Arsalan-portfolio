@@ -361,7 +361,7 @@ a:hover {
   animation: bn13bouncy 5s infinite linear;
   position: relative;
   font-size: 15px;
-} 
+}
 
 .bn13:hover {
   background-color: #ff8c00;
@@ -1025,36 +1025,6 @@ a:hover {
 .work-img img {
   transition: all 1s;
 }
-.col-md-4 {
-  display: flex !important; /* Enable Flexbox on the column */
-  flex-direction: column !important; /* Stack items vertically */
-  flex: 0 0 33.33333333% !important; /* Maintain three columns */
-  padding: 10px !important; /* Optional: Add padding for spacing */
-}
-
-.work-box {
-  display: flex !important; /* Enable Flexbox for work-box */
-  flex-direction: column !important; /* Stack items vertically */
-  height: 100% !important; /* Allow full height */
-  background-color: #000;
-}
-
-.work-img {
-  flex: 1 !important; /* Allow work-img to grow */
-  display: block !important;
-  overflow: hidden !important;
-}
-
-.img-fluid {
-  max-width: 100% !important;
-  height: auto !important;
-}
-
-.work-content {
-  padding: 2rem 3% 1rem 4% !important;
-  background-color: #000 !important;
-}
-
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
